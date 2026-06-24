@@ -4,4 +4,4 @@
 - [UnicodeData.txt](https://github.com/TG635-alt126xD/seiyuunese/blob/main/UnicodeData.txt)
 - [NamesList.txt](https://github.com/TG635-alt126xD/seiyuunese/blob/main/NamesList.txt)
 ## Proposals
-- [Unicode Proposal](https://ucsur-proposals.fandom.com/wiki/Seiyuunese)
+- [UCSUR](https://ucsur-proposals.fandom.com/wiki/Seiyuunese)
